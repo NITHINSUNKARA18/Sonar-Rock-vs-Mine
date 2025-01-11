@@ -7,7 +7,7 @@ Sonar is commonly used for object detection underwater. This project leverages a
 - R: Rocks
 - M: Mines
 
-The dataset consists of sonar signal readings, where each feature represents the intensity of sonar returns at different frequencies.
+The dataset consists of sonar signal readings, where each feature represents the intensity of sonar returns at different frequencies
 
 Features of the Project
 - Data Processing: Reads and processes the sonar dataset.
